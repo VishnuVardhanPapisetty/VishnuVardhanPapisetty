@@ -92,6 +92,19 @@
 
 <p align="center">✨ Let's build something epic! ✨</p>
 
+---
+
+### 🪄 Developer Vibes
+
+> - Turning dreams into deploys 🚀  
+> - Pixels, Python & Purpose 💡  
+> - Crafting clean code with chai ☕  
+> - Debugging life one line at a time 🧠  
+> - Build. Break. Learn. Repeat 🔁  
+> - From logic to legacy 🔥  
+> - Powered by passion & caffeine ⚡☕
+
+
 
 
 <!--
