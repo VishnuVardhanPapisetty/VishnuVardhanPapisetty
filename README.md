@@ -1,4 +1,37 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishnuVardhanPapisetty&label=Profile%20views&color=0e75b6&style=flat" alt="VishnuVardhanPapisetty" />
+</p>
+
+---
+
+## 🧩 Pinned Repositories
+
+<a href="https://github.com/VishnuVardhanPapisetty/FarmGADI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVardhanPapisetty&repo=FarmGADI&theme=react" />
+</a>
+
+---
+
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVardhanPapisetty&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 💻 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishnuVardhanPapisetty&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/VishnuVardhanPapisetty/VishnuVardhanPapisetty/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 <!--
 **VishnuVardhanPapisetty/VishnuVardhanPapisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
