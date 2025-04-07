@@ -21,7 +21,7 @@
 
 ### 🪄 Developer Vibes
 
-- Crafting clean code with chai ☕  
+- Turning dreams into deploys 🚀   
 - Debugging life one line at a time 🧠  
 - Build. Break. Learn. Repeat 🔁  
 - From logic to legacy 🔥  
