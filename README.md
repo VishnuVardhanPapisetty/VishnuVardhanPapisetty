@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Papisetti</h1>
-<h3 align="center">👨‍💻 Full-Stack Developer | Python 🐍 | React ⚛️</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+🚀;React+%7C+Python+%7C+ML+%F0%9F%90%8D;Building+Farm+GADI+%F0%9F%9A%9C&center=true&width=500&height=45&color=0E75B6&vCenter=true&size=22" />
+</p>
+
 <h4 align="center">🚜 Working on something special | ⚡ Turning code into solutions | 🌱 Dream big, build bigger</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishnuVardhanPapisetty&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge"/>
+  <img src="https://profile-counter.glitch.me/VishnuVardhanPapisetty/count.svg" alt="Visitor Badge"/>
 </p>
-
 
 ---
 
@@ -21,10 +24,10 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishnupapisetti" target="_blank">
+  <a href="https://www.linkedin.com/in/vishnu-vardhan-papisetti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vishnudev@gmail.com">
+  <a href="mailto:vishnuvardhan630sap@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://vishnupapisetti.github.io" target="_blank">
@@ -36,11 +39,15 @@
 
 ### ⚙️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,react,flask,github,vscode" />
+</p>
+
 - **Languages:** Python, Java, JavaScript, SQL  
 - **Frontend:** HTML, CSS, Bootstrap, React  
 - **Backend:** Flask (learning more)  
 - **Tools:** Git, GitHub, VS Code  
-- **Currently Learning:** React Animations, APIs, UI Polishing
+- **Currently Learning:** React Animations, APIs, UI Polishing  
 
 ---
 
@@ -73,8 +80,6 @@
 
 ---
 
----
-
 ## 🐍 Contribution Snake
 
 <picture>
@@ -86,6 +91,7 @@
 ---
 
 <p align="center">✨ Let's build something epic! ✨</p>
+
 
 
 <!--
