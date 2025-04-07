@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Papisetti</h1>
-
+<img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Vishnu-orange?style=flat-square" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+🚀;React+%7C+Python+%7C+ML+%F0%9F%90%8D;Working+on+something+special+%F0%9F%92%A1;Build.+Break.+Learn.+Repeat+ 🔁;Code.+Create.+Conquer.+%F0%9F%92%BB&center=true&width=500&height=45&color=0E75B6&vCenter=true&size=22" />
 </p>
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on a dream project **Farm GADI** – a vision to revolutionize agri-delivery in India  
 - 🌱 I’m learning React, Bootstrap, and building full-stack projects  
-- 💬 Ask me about **Python, JavaScript, Web Dev, and ML basics**  
+- 💬 Ask me about **Python, JavaScript, Web Development, and Machine Learning basics**  
 - 💡 I love turning real-world problems into digital solutions
 
 ### 🪄 Developer Vibes
