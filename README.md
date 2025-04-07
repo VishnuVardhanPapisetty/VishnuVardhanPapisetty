@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Papisetti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+🚀;React+%7C+Python+%7C+ML+%F0%9F%90%8D;Working+on+something+special+%F0%9F%92%A1;Build.+Break.+Learn.+Repeat+ 🔁;Pixels,+Python+&+Purpose+💡;Code.+Create.+Conquer.+%F0%9F%92%BB&center=true&width=500&height=45&color=0E75B6&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+🚀;React+%7C+Python+%7C+ML+%F0%9F%90%8D;Working+on+something+special+%F0%9F%92%A1;Build.+Break.+Learn.+Repeat+ 🔁;Pixels,+Python+Purpose;Code.+Create.+Conquer.+%F0%9F%92%BB&center=true&width=500&height=45&color=0E75B6&vCenter=true&size=22" />
 </p>
 
 <h4 align="center">🚜 Working on something special | ⚡ Turning code into solutions | 🌱 Dream big, build bigger</h4>
