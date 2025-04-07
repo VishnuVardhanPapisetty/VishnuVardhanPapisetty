@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Papisetti</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20by-Vishnu%20Papisetti-%230E75B6?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Powered%20by-Code%20%26%20Caffeine-%23ff6f61?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powered%20by-Code%20&%20Caffeine-%23ff6f61?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+🚀;React+%7C+Python+%7C+ML+%F0%9F%90%8D;Working+on+something+special+%F0%9F%92%A1;Build.+Break.+Learn.+Repeat+ 🔁;Code.+Create.+Conquer.+%F0%9F%92%BB&center=true&width=500&height=45&color=0E75B6&vCenter=true&size=22" />
