@@ -2,6 +2,9 @@
 <h3 align="center">👨‍💻 Full-Stack Developer | Python 🐍 | React ⚛️</h3>
 <h4 align="center">🚜 Working on something special | ⚡ Turning code into solutions | 🌱 Dream big, build bigger</h4>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishnuVardhanPapisetty&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge"/>
+</p>
 ---
 
 ### 🧠 About Me
