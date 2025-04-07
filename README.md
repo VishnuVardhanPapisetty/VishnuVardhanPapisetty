@@ -72,10 +72,9 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
-
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/VishnuVardhanPapisetty/VishnuVardhanPapisetty/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/VishnuVardhanPapisetty/VishnuVardhanPapisetty/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
