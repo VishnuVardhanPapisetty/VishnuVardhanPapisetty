@@ -17,7 +17,17 @@
 - 🔭 I’m currently working on a dream project **Farm GADI** – a vision to revolutionize agri-delivery in India  
 - 🌱 I’m learning React, Bootstrap, and building full-stack projects  
 - 💬 Ask me about **Python, JavaScript, Web Dev, and ML basics**  
-- 💡 I love turning real-world problems into digital solutions  
+- 💡 I love turning real-world problems into digital solutions
+
+### 🪄 Developer Vibes
+
+> - Turning dreams into deploys 🚀  
+> - Pixels, Python & Purpose 💡  
+> - Crafting clean code with chai ☕  
+> - Debugging life one line at a time 🧠  
+> - Build. Break. Learn. Repeat 🔁  
+> - From logic to legacy 🔥  
+> - Powered by passion & caffeine ⚡☕
 
 ---
 
@@ -92,17 +102,6 @@
 
 <p align="center">✨ Let's build something epic! ✨</p>
 
----
-
-### 🪄 Developer Vibes
-
-> - Turning dreams into deploys 🚀  
-> - Pixels, Python & Purpose 💡  
-> - Crafting clean code with chai ☕  
-> - Debugging life one line at a time 🧠  
-> - Build. Break. Learn. Repeat 🔁  
-> - From logic to legacy 🔥  
-> - Powered by passion & caffeine ⚡☕
 
 
 
