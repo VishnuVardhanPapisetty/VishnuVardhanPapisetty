@@ -73,6 +73,8 @@
 
 ---
 
+---
+
 ## 🐍 Contribution Snake
 
 <picture>
@@ -81,10 +83,10 @@
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/VishnuVardhanPapisetty/VishnuVardhanPapisetty/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
 ---
 
 <p align="center">✨ Let's build something epic! ✨</p>
+
 
 <!--
 **VishnuVardhanPapisetty/VishnuVardhanPapisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
