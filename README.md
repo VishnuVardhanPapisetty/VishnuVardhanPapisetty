@@ -86,7 +86,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishnuVardhanPapisetty&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=VishnuVardhanPapisetty&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=VishnuVardhanPapisetty&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
 </p>
 
 ---
