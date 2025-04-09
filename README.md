@@ -41,7 +41,7 @@
   <a href="mailto:vishnuvardhan630sap@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://vishnupapisetti.github.io" target="_blank">
+  <a href="https://vishnuvardhanpapisetty.github.io/Personal-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -75,9 +75,9 @@
 <a href="https://github.com/VishnuVardhanPapisetty/dog-facts-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVardhanPapisetty&repo=dog-facts-website&theme=tokyonight" />
 </a>
-<!-- <a href="https://github.com/VishnuVardhanPapisetty/Amazon-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVardhanPapisetty&repo=Amazon-Clone&theme=tokyonight" />
-</a> -->
+<a href="https://github.com/VishnuVardhanPapisetty/Personal-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVardhanPapisetty&repo=Personal-Portfolio&theme=tokyonight" />
+</a>
 
 ---
 
